@@ -1,0 +1,6 @@
+git is a version control system that helps us manage our files and projects
+git does this by:- keeping track of changes made to files history (changes we made , tells us when the change were made,...)
+                :-allowing us to collaborate with others on our projects by sharing changes ( this help us to work on the same project by interacting with each other)
+                :-providing feature branches that helps us split or breakdown tasks that team members can pick to work on, sfter the team members are done with the task 
+                they took , they can merge it into the main repository. it lets us go back and forth from one branch to another if we want to make changes or work on 
+                them up untill we are done.
